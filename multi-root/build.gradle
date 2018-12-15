@@ -1,3 +1,0 @@
-subprojects {
-  println "[${project.name}]: ${project.projectDir}"
-}
